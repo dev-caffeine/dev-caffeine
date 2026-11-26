@@ -17,7 +17,7 @@
 
 ## 📊 Economics × code
 - District-level panel study of fiscal policy and human development in Maharashtra, 2015–2025 (R)
-- [India's Balance of Payments: 25 years of RBI data](https://github.com/dev-caffeine/ShambhuKeche): descriptive stats, regression and 8 visualisations
+- [India's Balance of Payments: 25 years of RBI data](https://github.com/dev-caffeine/india-bop-statistical-analysis): descriptive stats, regression and 8 visualisations
 
 ## 🧾 Client work
 - [Shital Sheti Firm](https://shital-sheti-firm-dkdv.vercel.app/): marketing web app for a rural tractor business
